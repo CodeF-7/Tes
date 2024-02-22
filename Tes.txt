@@ -3,3 +3,10 @@ jika kalian melakukan commit simpan format kalian
 seprti
 
 Nama_Salam kenal_asal kota
+
+Maaf ada perubahan formatnya
+Berikut yang benar
+-NAMA
+-DOMISILI
+-USIA
+-No_Telp
