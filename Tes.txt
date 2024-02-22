@@ -10,3 +10,10 @@ Berikut yang benar
 -DOMISILI
 -USIA
 -Status
+
+
+Halo nama saya
+-Athena
+-Jakarta Selatan
+-20 Tahun
+-Mahasiswi
