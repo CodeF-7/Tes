@@ -9,4 +9,4 @@ Berikut yang benar
 -NAMA
 -DOMISILI
 -USIA
--No_Telp
+-Status
