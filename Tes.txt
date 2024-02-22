@@ -2,4 +2,4 @@ Halo Perkenalkan nama kalian ya ^_^
 jika kalian melakukan commit simpan format kalian
 seprti
 
-Nama_Salam kenal_asal kalian
+Nama_Salam kenal_asal kota
